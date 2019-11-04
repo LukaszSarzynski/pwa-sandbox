@@ -8,9 +8,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "express-http-to-https": "^1.1.4",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.0"
   },
   "engines": {
     "node": "8.x"
